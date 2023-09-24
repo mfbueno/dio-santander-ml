@@ -1,6 +1,10 @@
 
 # Curso de Machine Learning DIO - Bootcamp Santander 2023
 
-Exercício de classificação para identificação do estado de maturidade de um tomate a partir de sua imagem.
+## Atividade Proposta: Criando um Dataset para treinamento de um algoritmo de Inteligência Artificial
 
-Após a coleta de diversas imagens de tomates em estado de "verde" e "maduro" previamente selecionadas, o programa as utilizará para ser treinado para identificar o estado de maturidade correto. A partir de qualquer imagem fornecida de tomate deverá retornar o seu estado correto.
+O projeto relacionado à atividade proposta foi criado com base no dataset disponibilizado neste repositório, sendo utilizado para o treinamento de um algoritmo junto com Redes Neurais Artificiais.
+
+Para essa tarefa foram criadas duas classes de objetos com no mínimo 100 imagens para cada uma delas, baixadas da internet (nessa atividade, foi escolhido o objeto 'tomate' com duas classes: classe 'Maduros' e classe 'Verdes').
+
+Esse dataset vai servir para treinar o algoritmo a classificar corretamente imagens de tomates.
